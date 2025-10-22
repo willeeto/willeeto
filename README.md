@@ -10,6 +10,6 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/willeetosan/](https://www.instagram.com/willeetop/
-[linkedin]: https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/willeeto/
+[instagram]: (https://www.instagram.com/willeetop/
+[linkedin]: (https://www.linkedin.com/in/willeeto/
 
