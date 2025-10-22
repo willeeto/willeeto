@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Sorting Alogrithms Visualizer</b>
-  - [Sorting Algorithms Visualizer in Java](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Sorting Algorithms Visualizer in Java](https://github.com/willeeto)
 
 <h2> 🤳 Connect with me:</h2>
 
